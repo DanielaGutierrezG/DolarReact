@@ -1,0 +1,48 @@
+.Cambio {
+    background-color: #151E3D;
+    border-radius: 20px;
+    color: white;
+}
+
+.df {
+    display: flex;
+}
+
+.divisa {
+    background-color: #2B34E0;
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+}
+
+.input {
+    z-index: auto;
+    margin-top: 13px;
+    width: 170px;
+    height: 50px;
+    border-radius: 25px;
+    margin-left: -30px;
+}
+
+.puntos {
+    border: 3px dotted black;
+}
+
+.cupon {
+    margin-top: 13px;
+    width: 200px;
+    height: 50px;
+    border-radius: 15px;
+    margin-left: -30px;
+}
+
+.boton {
+    width: 100px;
+    height: 55px;
+    margin-top: 14px;
+    border-radius: 0px 15px 15px 0px;
+    margin-left: -30px;
+    border: none;
+    background-color: #2B34E0;
+
+}

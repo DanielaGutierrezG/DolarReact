@@ -1,0 +1,33 @@
+.Alertas {
+    background-color: #151E3D;
+    width: 545px;
+    height: 518px;
+    border-radius: 20px;
+    color: white;
+}
+
+.p {
+    color: #FFAE64;
+}
+
+.df {
+    display: flex;
+}
+
+.side1 {
+    background-color: #D6E7EE;
+    width: 120px;
+    height: 65px;
+    border-radius: 20px 0px 0px 20px;
+}
+
+.side2 {
+    background-color: #2B34E0;
+    width: 120px;
+    height: 65px;
+    border-radius: 0px 20px 20px 0px;
+}
+
+.mart {
+    margin-top: -10px;
+}

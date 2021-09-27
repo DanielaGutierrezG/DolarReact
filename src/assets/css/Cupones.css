@@ -1,0 +1,9 @@
+.df {
+    display: flex;
+    border: solid 1px white;
+    border-radius: 10px;
+}
+
+.Cupones {
+    background-color: #151E3D;
+}
